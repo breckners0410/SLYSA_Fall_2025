@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+PRODID:-//Abigail SLYSA U11//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:abigail-slysa-2015red-1@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red at JB Marine Gold 15/16G
+DTSTART;TZID=America/Chicago:20250824T133000
+DTEND;TZID=America/Chicago:20250824T143000
+LOCATION:WWT Soccer Park – #05A, 1 Soccer Park Rd, Fenton, MO, US
+DESCRIPTION:Uniform: Away. Arrive 30 minutes early. Field: #05A. Complex: WWT Soccer Park.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at JB Marine Gold 15/16G - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at JB Marine Gold 15/16G - Game in 2 hours
+END:VALARM
+END:VEVENTBEGIN:VEVENT
+UID:abigail-slysa-2015red-2@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red vs SMSC Stars 2015G
+DTSTART;TZID=America/Chicago:20250906T133000
+DTEND;TZID=America/Chicago:20250906T143000
+LOCATION:First Community Sports Complex – Field 1B 9v9, 420 DD Rd, Columbia, IL, US
+DESCRIPTION:Uniform: Home. Arrive 30 minutes early. Field: Field 1B 9v9. Complex: First Community Sports Complex.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red vs SMSC Stars 2015G - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red vs SMSC Stars 2015G - Game in 2 hours
+END:VALARM
+END:VEVENTBEGIN:VEVENT
+UID:abigail-slysa-2015red-3@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red at Washington Soccer Academy 2015 Girls - Red
+DTSTART;TZID=America/Chicago:20250914T180000
+DTEND;TZID=America/Chicago:20250914T190000
+LOCATION:Lou Fusz Athletic – #04B, 2155 Creve Coeur Mill Rd, St. Louis, MO, US
+DESCRIPTION:Uniform: Away. Arrive 30 minutes early. Field: #04B. Complex: Lou Fusz Athletic.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at Washington Soccer Academy 2015 Girls - Red - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at Washington Soccer Academy 2015 Girls - Red - Game in 2 hours
+END:VALARM
+END:VEVENTBEGIN:VEVENT
+UID:abigail-slysa-2015red-4@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red at LFA Blue Star Major 2015G
+DTSTART;TZID=America/Chicago:20250928T163000
+DTEND;TZID=America/Chicago:20250928T173000
+LOCATION:Missouri Rush – #02B, 901 Caledonia Dr, O'Fallon, MO, US
+DESCRIPTION:Uniform: Away. Arrive 30 minutes early. Field: #02B. Complex: Missouri Rush.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at LFA Blue Star Major 2015G - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at LFA Blue Star Major 2015G - Game in 2 hours
+END:VALARM
+END:VEVENTBEGIN:VEVENT
+UID:abigail-slysa-2015red-5@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red vs STLDA 2015G Elite Red
+DTSTART;TZID=America/Chicago:20251005T150000
+DTEND;TZID=America/Chicago:20251005T160000
+LOCATION:First Community Sports Complex – Field 1A 9v9, 420 DD Rd, Columbia, IL, US
+DESCRIPTION:Uniform: Home. Arrive 30 minutes early. Field: Field 1A 9v9. Complex: First Community Sports Complex.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red vs STLDA 2015G Elite Red - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red vs STLDA 2015G Elite Red - Game in 2 hours
+END:VALARM
+END:VEVENTBEGIN:VEVENT
+UID:abigail-slysa-2015red-6@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red at CarShield FC Red Stars 2015G
+DTSTART;TZID=America/Chicago:20251012T163000
+DTEND;TZID=America/Chicago:20251012T173000
+LOCATION:Sportport – #11B, 12525 Sport Port Rd, Maryland Heights, MO, US
+DESCRIPTION:Uniform: Away. Arrive 30 minutes early. Field: #11B. Complex: Sportport.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at CarShield FC Red Stars 2015G - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at CarShield FC Red Stars 2015G - Game in 2 hours
+END:VALARM
+END:VEVENTBEGIN:VEVENT
+UID:abigail-slysa-2015red-7@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red vs STLDA 2016G Elite Navy
+DTSTART;TZID=America/Chicago:20251019T180000
+DTEND;TZID=America/Chicago:20251019T190000
+LOCATION:WWT Soccer Park – #05B, 1 Soccer Park Rd, Fenton, MO, US
+DESCRIPTION:Uniform: Home. Arrive 30 minutes early. Field: #05B. Complex: WWT Soccer Park.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red vs STLDA 2016G Elite Navy - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red vs STLDA 2016G Elite Navy - Game in 2 hours
+END:VALARM
+END:VEVENTBEGIN:VEVENT
+UID:abigail-slysa-2015red-8@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red vs MO Rush 2015G Select Blue
+DTSTART;TZID=America/Chicago:20251102T133000
+DTEND;TZID=America/Chicago:20251102T143000
+LOCATION:WWT Soccer Park – #05A, 1 Soccer Park Rd, Fenton, MO, US
+DESCRIPTION:Uniform: Home. Arrive 30 minutes early. Field: #05A. Complex: WWT Soccer Park.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red vs MO Rush 2015G Select Blue - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red vs MO Rush 2015G Select Blue - Game in 2 hours
+END:VALARM
+END:VEVENTBEGIN:VEVENT
+UID:abigail-slysa-2015red-9@breckner-family
+DTSTAMP:20250809T224828Z
+SUMMARY:SLYSA: SLSG 2015 Elite Red at Gateway Rush 2015G United
+DTSTART;TZID=America/Chicago:20251123T103000
+DTEND;TZID=America/Chicago:20251123T113000
+LOCATION:Belle Clair Soccer Park – #02C, 2842 Centreville Ave, Belleville, IL, US
+DESCRIPTION:Uniform: Away. Arrive 30 minutes early. Field: #02C. Complex: Belle Clair Soccer Park.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at Gateway Rush 2015G United - Game tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:SLYSA: SLSG 2015 Elite Red at Gateway Rush 2015G United - Game in 2 hours
+END:VALARM
+END:VEVENT
+END:VCALENDAR
